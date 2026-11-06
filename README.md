@@ -89,10 +89,10 @@ A fitness tracking application designed to help users manage and track their fit
 
 ## 📚 Currently Learning
 
+- Exploring AI/ML.
 - Advanced Full-Stack Web Development.
 - Building scalable web applications.
 - Improving backend architecture.
-- Exploring AI/ML.
 
 ---
 
@@ -133,7 +133,7 @@ A fitness tracking application designed to help users manage and track their fit
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer" width="100%" />
 </p>
 
-<h3 align="center">💻 Code. Learn. Build. Repeat. 🚀</h3>
+<h3 align="center">💻 Code. Learn. Build. Repeat. </h3>
 
 <p align="center">
   <i>Thanks for visiting my profile! 😊</i>
