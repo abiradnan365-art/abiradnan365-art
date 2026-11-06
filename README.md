@@ -1,4 +1,5 @@
- <p align="center">
+ 
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adnan%20Hossain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%" />
 </p>
 
@@ -26,10 +27,16 @@ I'm a passionate Full-Stack Web Developer from Bangladesh who enjoys building mo
 
 ## 🛠️ Tech Stack & Tools
 
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,js,ts" alt="Programming Languages" />
+</p>
+
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend Development
@@ -85,7 +92,7 @@ A fitness tracking application designed to help users manage and track their fit
 - Advanced Full-Stack Web Development.
 - Building scalable web applications.
 - Improving backend architecture.
-- Exploring AI/ML Machine Learning.
+- Exploring AI/ML.
 
 ---
 
