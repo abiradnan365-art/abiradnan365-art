@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Adnan Hossain Abir</h1>
 
-<h3 align="center">💻 Full-Stack Web Developer | Building Modern Web Applications 🚀</h3>
+<h3 align="center">💻 Full-Stack Web Developer | Building Modern Web Applications </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
