@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adnan%20Hossain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Adnan Hossain</h1>
+<h1 align="center">👋 Hi, I'm Adnan Hossain Abir</h1>
 
 <h3 align="center">💻 Full-Stack Web Developer | Building Modern Web Applications 🚀</h3>
 
