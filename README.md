@@ -18,7 +18,7 @@
 I'm a passionate Full-Stack Web Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
 
 - 🔭 Currently building full-stack web applications.
-- 🌱 Exploring advanced Full-Stack Development.
+- 🌱 Exploring Machine Learning.
 - 💡 Interested in Cybersecurity and Software Engineering.
 - 🎯 Always learning, building, and improving.
 - 📍 Based in Bangladesh.
