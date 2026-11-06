@@ -85,7 +85,7 @@ A fitness tracking application designed to help users manage and track their fit
 - Advanced Full-Stack Web Development.
 - Building scalable web applications.
 - Improving backend architecture.
-- Exploring Cybersecurity 🔐.
+- Exploring AI/ML Machine Learning.
 
 ---
 
